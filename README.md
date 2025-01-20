@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sarmedmujaddid
-- 👀 I’m interested in Traversing the world
-- 🌱 I’m currently learning Selenium with C#
+- 👀 ISTQB-certified Agile Tester with over seven years of experience in software quality assurance, spanning industries like fintech, IoT, blockchain, e-commerce, and on-demand services.
+- My expertise lies in manual and automated testing, test management, and delivering high-quality software in agile environments.
+- 🌱 Hands-on with Selenium Webdriver with C# (Nunit Framework) + Playwright e2e Automation Test
 - 💞️ I’m looking to collaborate on Testing and Quality Assurance
 - 📫 How to reach me https://www.linkedin.com/in/sarmadalihaider/
 
