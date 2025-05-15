@@ -6,6 +6,7 @@
 - 🌱 Hands-on with Selenium Webdriver with C# (Nunit Framework) + Playwright e2e Automation Test
 - 💞️ I’m looking to collaborate on Testing and Quality Assurance
 - 📫 How to reach me https://www.linkedin.com/in/sarmadalihaider/
+- 👋 How to reach for Freelance Projects - https://www.upwork.com/freelancers/~01cfbb06d64684fcaf
 
 
 <!---
